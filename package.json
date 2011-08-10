@@ -1,0 +1,27 @@
+{
+    "name" : "hungarian-magic",
+    "version" : "0.1.0",
+    "description" : "hungarian typechecking magic",
+    "main" : "./index.js",
+    "keywords" : [
+        "hungarian",
+        "typechecking",
+        "type",
+        "check",
+        "safety",
+        "security",
+        "wrapper"
+    ],
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/thejh/node-hungarian-magic.git"
+    },
+    "homepage" : "http://github.com/thejh/node-hungarian-magic",
+    "directories" : {
+        "lib" : "."
+    },
+    "author" : {
+        "name" : "Jann Horn",
+        "email" : "jannhorn@googlemail.com"
+    }
+}
